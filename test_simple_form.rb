@@ -1,4 +1,3 @@
-#require_relative "simple_web_form"
 require 'selenium-webdriver'
 require 'test/unit'
 
